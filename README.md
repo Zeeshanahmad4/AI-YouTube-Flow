@@ -59,8 +59,12 @@
 - Google API Client Library
 - Zapier Account (for automation)
 
-## Usage Examples 💡
 
+## Usage Examples 💡
+**Data Extraction:**
+# Fetch most popular videos from a channel
+from data_extraction.youtube_data_extractor import get_most_popular_videos
+videos = get_most_popular_videos('YOUR_API_KEY', 'CHANNEL_ID', 'START_DATE', 'END_DATE')
 
 ## Setup and Installation Instructions 🚀
 1. Clone the repository.
