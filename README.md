@@ -59,6 +59,9 @@
 - Google API Client Library
 - Zapier Account (for automation)
 
+## Usage Examples 💡
+
+
 ## Setup and Installation Instructions 🚀
 1. Clone the repository.
 2. Install required dependencies.
