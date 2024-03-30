@@ -36,7 +36,7 @@
 - [📋 Requirements](#requirements-)
 - [💡 Usage Examples](#usage-examples-)
    - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
-- [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
+- [🔧 Troubleshooting Tips](#troubleshooting-tips-)
 - [🤝 Contribution Guidelines](#contribution-guidelines-)
 
 
@@ -66,7 +66,7 @@
 4. Follow the configuration guide.
 
 
-## Troubleshooting Tips🛠️
+## Troubleshooting Tips 🔧
 - Ensure API keys are valid.
 - Check for proper installation of dependencies.
 - Verify network connectivity for API calls.
