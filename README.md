@@ -63,16 +63,32 @@
 ## Usage Examples 💡
 
 **Data Extraction:**
-``` Fetch most popular videos from a channel
+``` 
+Fetch most popular videos from a channel
 from data_extraction.youtube_data_extractor import get_most_popular_videos
 videos = get_most_popular_videos('YOUR_API_KEY', 'CHANNEL_ID', 'START_DATE', 'END_DATE')
 ```
 **Content Processing:**
-```# Process video content
+
+``` 
+# Process video content
 from content_processing.transcript_extractor import get_video_transcript
 transcript = get_video_transcript('VIDEO_ID')
 ```
+**File Management:**
 
+```
+# Upload a file to Google Drive
+from file_management.google_drive_manager import upload_file_to_drive, get_drive_service
+drive_service = get_drive_service()
+upload_file_to_drive(drive_service, 'path/to/file')
+```
+**Automation Integration:**
+````
+# Upload a video to YouTube
+from automation_integration.uploader import upload_video
+upload_video('path/to/video', 'Video Title', 'Video Description')
+````
 
 ## Setup and Installation Instructions 🚀
 1. Clone the repository.
