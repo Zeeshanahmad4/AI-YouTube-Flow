@@ -106,7 +106,6 @@ upload_video('path/to/video', 'Video Title', 'Video Description')
 We welcome contributions! Please read our https://github.com/Zeeshanahmad4/AI-YouTube-Flow
 
 Fork the repository.
-
 - Create a new branch
 - Make your changes and commit them:
 - Push to the branch
