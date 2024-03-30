@@ -71,7 +71,7 @@
 - Check for proper installation of dependencies.
 - Verify network connectivity for API calls.
 
-## Contribution Guidelines
+## Contribution Guidelines 🤝
 We welcome contributions! Please read our https://github.com/Zeeshanahmad4/AI-YouTube-Flow
 
 Fork the repository.
