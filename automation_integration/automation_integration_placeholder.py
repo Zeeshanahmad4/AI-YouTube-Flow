@@ -1,4 +1,3 @@
-# Placeholderimport os
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from oauth2client.client import OAuth2WebServerFlow
