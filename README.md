@@ -30,7 +30,7 @@
 
 ## Table of Contents 📖
 
-- [🗺️ Project Overview](#project-overview-)
+- [🗺️Project Overview](#project-overview-)
 - [✨ Features](#features-)
    - [ To-Do Features](#to-do-features-)
 - [📋 Requirements](#requirements-)
@@ -40,7 +40,7 @@
 - [🤝 Contribution Guidelines](#contribution-guidelines-)
 
 
-## Project Overview🗺️
+## Project Overview 🗺️
 **AI YouTubeFlow** is a sophisticated automation tool designed for seamless YouTube content management. Using AI and YouTube API, it automates video data extraction, content processing, file management, and posting.
 
 ## Features ✨
