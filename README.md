@@ -53,3 +53,22 @@
 - 🌟 Integrate advanced AI algorithms for content analysis.
 - 🚀 Implement multi-platform support for content distribution.
 - 🔍 Enhanced analytics for video performance tracking.
+
+## Requirements 📋
+- Python 3.x
+- Google API Client Library
+- Zapier Account (for automation)
+
+## Setup and Installation Instructions 🚀
+1. Clone the repository.
+2. Install required dependencies.
+3. Set up API keys and authentication.
+4. Follow the configuration guide.
+
+
+## Troubleshooting Tips 🛠️
+- Ensure API keys are valid.
+- Check for proper installation of dependencies.
+- Verify network connectivity for API calls.
+
+
