@@ -30,7 +30,7 @@
 
 ## Table of Contents 📖
 
-- [ 🗺️Project Overview](#project-overview-)
+- [🗺️ Project Overview](#project-overview-)
 - [✨ Features](#features-)
    - [ To-Do Features](#to-do-features-)
 - [📋 Requirements](#requirements-)
