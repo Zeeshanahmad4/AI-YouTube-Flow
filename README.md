@@ -49,7 +49,7 @@
 - **File Management**: Efficient Google Drive integration for file storage.
 - **Automation**: Streamline the video uploading process to YouTube.
 
-### To-Do Features
+### To-Do Features 📌
 - 🌟 Integrate advanced AI algorithms for content analysis.
 - 🚀 Implement multi-platform support for content distribution.
 - 🔍 Enhanced analytics for video performance tracking.
