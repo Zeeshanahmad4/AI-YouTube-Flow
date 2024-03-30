@@ -61,10 +61,18 @@
 
 
 ## Usage Examples 💡
+
 **Data Extraction:**
-# Fetch most popular videos from a channel
+``` Fetch most popular videos from a channel
 from data_extraction.youtube_data_extractor import get_most_popular_videos
 videos = get_most_popular_videos('YOUR_API_KEY', 'CHANNEL_ID', 'START_DATE', 'END_DATE')
+```
+**Content Processing:**
+```# Process video content
+from content_processing.transcript_extractor import get_video_transcript
+transcript = get_video_transcript('VIDEO_ID')
+```
+
 
 ## Setup and Installation Instructions 🚀
 1. Clone the repository.
