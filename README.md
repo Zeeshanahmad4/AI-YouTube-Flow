@@ -66,7 +66,7 @@
 4. Follow the configuration guide.
 
 
-## Troubleshooting Tips 🛠️
+## Troubleshooting Tips🛠️
 - Ensure API keys are valid.
 - Check for proper installation of dependencies.
 - Verify network connectivity for API calls.
